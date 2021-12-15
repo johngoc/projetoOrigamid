@@ -1,0 +1,21 @@
+import initScrollSuave from './modules/scroll-suave.js';
+import initScrollAnimation from './modules/scroll-animation.js';
+import initAccordion from './modules/accordion.js';
+import initNavMenu from './modules/nav-menu.js';
+import initModal from './modules/modal.js';
+import initTooltip from './modules/toolTip.js';
+import initDropdownMenu from './modules/dropdown-menu.js';
+import initMenuMobile from './modules/menu-mobile.js';
+import initAnimaNumeros from './modules/anima-numeros.js';
+import initHorarioFuncionamento from './modules/funcionamento.js';
+
+initScrollSuave();
+initScrollAnimation();
+initAccordion();
+initNavMenu();
+initModal();
+initTooltip();
+initDropdownMenu();
+initMenuMobile();
+initAnimaNumeros();
+initHorarioFuncionamento();
